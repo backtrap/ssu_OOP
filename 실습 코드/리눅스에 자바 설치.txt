@@ -1,0 +1,12 @@
+[개발환경]Ubuntu에 Java 설치하기
+https://velog.io/@ung6860/%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BDUbuntu%EC%97%90-Java-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0
+
+..~~~~..
+
+실행 방법은
+
+ 1. javac 파일
+ 2. java 파일
+
+..~~~~..
+
